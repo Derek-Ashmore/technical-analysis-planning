@@ -7,3 +7,11 @@
 - Describe your thinking in file notes/Research_Thinking_v1.md
 - Document additional requests for information file notes/Research_Questions_v1.md
 - Do not create any application code. I'm only interested in the research results.
+
+> Initial research v2
+
+- Please revise your analysis as folder requirements has been updated with answers to your previous questions.
+- Place your results in file research/Research_v2.md
+- Describe your thinking in file notes/Research_Thinking_v2.md
+- Document additional requests for information file notes/Research_Questions_v2.md
+- Do not create any application code. I'm only interested in the research results.
